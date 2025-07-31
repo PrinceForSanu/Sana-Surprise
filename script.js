@@ -16,9 +16,12 @@ slides[0].classList.add('active'); // start from first
 
   // Typewriter effect
   const typewriterText = [
-    "Your smile lights up my world, Sana 💖",
-    "Every heartbeat whispers your name 💌",
+    "Good Morning My Love", 
+    "Your smile lights up my world, Sanu 💖",
+    "My every heartbeat whispers your name 💌",
     "This is just a small surprise… but all of it is you ❤️"
+    "I may not be Itachi, But can be your OBITO",  
+    "Love you Meri Jaan",
   ];
   let lineIndex = 0, charIndex = 0;
 
